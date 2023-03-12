@@ -1,6 +1,6 @@
 # Al-Models
 contain all ai models and practices
 
-On Transformer Now:
+Transformer Now:
 
 1. Bert
