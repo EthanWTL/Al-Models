@@ -1,6 +1,4 @@
-# Al-Models
-
-A. Transformer:
+# Transformers:
 
 1. Baseline for use a transformer model without fine-tuning for specifi tasks:
 
