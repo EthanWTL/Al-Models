@@ -16,6 +16,6 @@ sequences = ["I've been waiting for a HuggingFace course my whole life.", "So ha
 tokens = tokenizer(sequences, padding=True, truncation=True, return_tensors="pt")
 output = model(**tokens)
 ```
-2. fine-tuning Bert for Question Answering: See notebook "QA_SQuAD"
+2. fine-tuning Bert for Question Answering: See notebook [QA_SQuAD](https://github.com/EthanWTL/Al-Models/blob/main/QA_SQuAD.ipynb)
 
 
