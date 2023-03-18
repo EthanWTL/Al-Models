@@ -1,7 +1,9 @@
 # Al-Models
 
 A. Transformer:
+
 Baseline for use a transformer model without fine-tuning for specifi tasks:
+
 ```python
 import torch
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
