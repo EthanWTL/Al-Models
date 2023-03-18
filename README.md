@@ -17,3 +17,5 @@ tokens = tokenizer(sequences, padding=True, truncation=True, return_tensors="pt"
 output = model(**tokens)
 ```
 2. fine-tuning Bert for Question Answering:
+
+See notebook : QA_SQuAD
