@@ -2,7 +2,7 @@
 
 A. Transformer:
 
-Baseline for use a transformer model without fine-tuning for specifi tasks:
+1. Baseline for use a transformer model without fine-tuning for specifi tasks:
 
 ```python
 import torch
@@ -16,3 +16,4 @@ sequences = ["I've been waiting for a HuggingFace course my whole life.", "So ha
 tokens = tokenizer(sequences, padding=True, truncation=True, return_tensors="pt")
 output = model(**tokens)
 ```
+2. fine-tuning Bert for Question Answering:
