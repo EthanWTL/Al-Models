@@ -1,5 +1,7 @@
 # Transformers:
 
+Building visualization still in progress
+
 1. Baseline for use a transformer model without fine-tuning for specifi tasks:
 
 ```python
@@ -16,4 +18,9 @@ output = model(**tokens)
 ```
 2. fine-tuning Bert for Question Answering: See notebook [QA_SQuAD](https://github.com/EthanWTL/Al-Models/blob/main/QA_SQuAD.ipynb)
 
+![image](https://user-images.githubusercontent.com/97998419/226233347-061ec99b-7605-41da-aeb0-334203ae1385.png)
 
+
+3.Bert+Bart: Long-form Question Answering:
+
+![image](https://user-images.githubusercontent.com/97998419/226233267-736cc8ef-2987-413d-a7b4-58244da9ac2e.png)
