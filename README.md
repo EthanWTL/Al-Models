@@ -24,3 +24,7 @@ output = model(**tokens)
 3.Bert+Bart: Long-form Question Answering:
 
 ![image](https://user-images.githubusercontent.com/97998419/226233267-736cc8ef-2987-413d-a7b4-58244da9ac2e.png)
+
+
+4.persona chatbot
+https://medium.com/huggingface/how-to-build-a-state-of-the-art-conversational-ai-with-transfer-learning-2d818ac26313
